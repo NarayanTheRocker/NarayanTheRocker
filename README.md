@@ -1,4 +1,4 @@
-![logo]([https://github.com/NarayanTheRocker/NarayanTheRocker/blob/main/n%20narayan%20(2).png](https://github.com/NarayanTheRocker/NarayanTheRocker/blob/main/N%20NARAYAN%20(3).png))
+![logo](https://github.com/NarayanTheRocker/NarayanTheRocker/blob/main/N%20NARAYAN%20(4).png)
 <h1 align="center">Hi 👋, I'm Narayan</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
