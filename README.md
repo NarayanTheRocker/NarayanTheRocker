@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayantherocker&label=Profile%20views&color=0e75b6&style=flat" alt="narayantherocker" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.funpoint.site/](https://www.funpoint.site/)
+- 👨‍💻 All of my projects are available at [Urban Naru](http://urbannaru.rf.gd/)
 
 - 📫 How to reach me **nn7175634@gmail.com**
 
